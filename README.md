@@ -31,3 +31,14 @@ A web-based Cycle Store Management System built using ASP.NET Web APIs, Entity F
 - Microsoft SQL Server
 
 ---
+## Preview
+
+Login Page
+![image](https://github.com/user-attachments/assets/92f69bfc-519f-4ef4-9d89-faa0657c57ba)
+
+Admin Panel
+
+Inventory Management Page
+![image](https://github.com/user-attachments/assets/85f377b3-f0cc-435a-8dad-7d1513d79d35)
+
+
